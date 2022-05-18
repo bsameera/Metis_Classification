@@ -41,4 +41,4 @@ Scikit-Learn – Build different Classification models and perform cross validat
 Matplotlib/ Seaborn – Visualizing data exploration, modeling and results
 Python 3.8.5 – to run all of the above
 
-![image](https://user-images.githubusercontent.com/19984340/168956063-d78ba6d2-ae7e-4d4a-966d-ae39a6d4b6f4.png)
+
